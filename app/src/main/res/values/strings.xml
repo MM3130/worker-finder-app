@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PW Find</string>
+
+    <string name="login_TV">Login</string>
+    <string name="email_edt">Email ID</string>
+    <string name="password_ET">Password</string>
+    <string name="forgotpass_TV">Forgot Password</string>
+    <string name="signin_BT">Sing In</string>
+    <string name="newUserRegisterHere_TV">New User? Register Here</string>
+
+    <string name="getLink_BT">Get Link</string>
+
+    <string name="registerFor">Register For</string>
+    <string name="user">USER</string>
+    <string name="worker">WORKER</string>
+
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="mobileNo_ET">Mobile No</string>
+    <string name="getOTP">Get OTP</string>
+    <string name="alreadyRegistered_TV">Already Registered? Login Here</string>
+
+    <string name="otp_activity_txt">Enter OTP sent to your mobile Number</string>
+
+    <string name="landmark">Landmark</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="next">Next</string>
+    <string name="gender">Gender</string>
+    <string name="dateofbirth">Date of Birth</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="searchWorker">Search Worker</string>
+    <string name="workerType_need">Which type worker you need</string>
+
+    <string name="workers">Workers</string>
+    <string name="profile">Profile</string>
+
+    <string name="skill">Skill</string>
+    <string name="status">Status</string>
+
+    <string name="changeLanguage">Select Language</string>
+    <string name="english">English</string>
+    <string name="marathi">Marathi</string>
+    <string name="hindi">Hindi</string>
+    <string name="kannada">Kannada</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

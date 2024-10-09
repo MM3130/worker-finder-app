@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559390486813",
+    "project_id": "pw-find",
+    "storage_bucket": "pw-find.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559390486813:android:33b02f63c0a89f8c2c31f4",
+        "android_client_info": {
+          "package_name": "com.mm.pwfind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaeQA3HQQKf1MOdz1jiR8MCnehFtoDJPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

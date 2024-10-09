@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PW Find</string>
+
+    <string name="login_TV">ಲಾಗಿನ್</string>
+    <string name="email_edt">ಇಮೇಲ್ ಐಡಿ</string>
+    <string name="password_ET">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="forgotpass_TV">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ</string>
+    <string name="signin_BT">ಸೈನ್ ಇನ್</string>
+    <string name="newUserRegisterHere_TV">ಹೊಸ ಬಳಕೆದಾರ? ಇಲ್ಲಿ ನೋಂದಾಯಿಸಿ</string>
+
+    <string name="getLink_BT">ಲಿಂಕ್ ಪಡೆಯಿರಿ</string>
+
+    <string name="registerFor">ನೋಂದಾಯಿಸಿ</string>
+    <string name="user">ಬಳಕೆದಾರ</string>
+    <string name="worker">ಕೆಲಸಗಾರ</string>
+
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="mobileNo_ET">ಮೊಬೈಲ್ ನಂ</string>
+    <string name="getOTP">OTP ಪಡೆಯಿರಿ</string>
+    <string name="alreadyRegistered_TV">ಈಗಾಗಲೇ ನೋಂದಾಯಿಸಲಾಗಿದೆ? ಇಲ್ಲಿ ಲಾಗಿನ್ ಮಾಡಿ</string>
+
+    <string name="otp_activity_txt">ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಕಳುಹಿಸಿದ OTP ಅನ್ನು ನಮೂದಿಸಿ</string>
+
+    <string name="landmark">ಲ್ಯಾಂಡ್‌ಮಾರ್ಕ್</string>
+    <string name="city">ನಗರ</string>
+    <string name="state">ರಾಜ್ಯ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="gender">ಲಿಂಗ</string>
+    <string name="dateofbirth">ಹುಟ್ತಿದ ದಿನ</string>
+
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+    <string name="searchWorker">ಕೆಲಸಗಾರ ಹುಡುಕಾಟ</string>
+    <string name="workerType_need">ನಿಮಗೆ ಯಾವ ರೀತಿಯ ಕೆಲಸಗಾರ ಬೇಕು</string>
+
+    <string name="workers">ಕೆಲಸಗಾರರು</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+
+    <string name="skill">ಕೌಶಲ್ಯ</string>
+    <string name="status">ಸ್ಥಿತಿ</string>
+
+    <string name="changeLanguage">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="english">ಇಂಗ್ಲೀಷ್</string>
+    <string name="marathi">ಮರಾಠಿ</string>
+    <string name="hindi">ಹಿಂದಿ</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
+</resources>

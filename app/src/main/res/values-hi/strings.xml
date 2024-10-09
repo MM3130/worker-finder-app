@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PW Find</string>
+
+    <string name="login_TV">लॉगिन</string>
+    <string name="email_edt">ईमेल आईडी</string>
+    <string name="password_ET">पासवर्ड</string>
+    <string name="forgotpass_TV">पासवर्ड भूल गये</string>
+    <string name="signin_BT">दाखिल करें</string>
+    <string name="newUserRegisterHere_TV">नए उपयोगकर्ता? यहां रजिस्टर करें</string>
+
+    <string name="getLink_BT">लिंक प्राप्त करें</string>
+
+    <string name="registerFor">रजिस्टर करें</string>
+    <string name="user">उपभोक्ता</string>
+    <string name="worker">कर्मचारी</string>
+
+    <string name="register">रजिस्टर</string>
+    <string name="name">नाम</string>
+    <string name="mobileNo_ET">मोबाइल नंबर</string>
+    <string name="getOTP">OTP प्राप्त करें</string>
+    <string name="alreadyRegistered_TV">पहले से ही पंजीकृत? यहां लॉग इन करें</string>
+
+    <string name="otp_activity_txt">आपके मोबाइल नंबर पर भेजा गया OTP दर्ज करें</string>
+
+    <string name="landmark">सीमा चिन्ह</string>
+    <string name="city">शहर</string>
+    <string name="state">राज्य</string>
+    <string name="next">अगला</string>
+    <string name="gender">लिंग</string>
+    <string name="dateofbirth">जन्म तिथि</string>
+
+    <string name="logout">लॉगआउट</string>
+
+    <string name="searchWorker">कार्यकर्ता खोजें</string>
+    <string name="workerType_need">आपको किस प्रकार के कार्यकर्ता की आवश्यकता है?</string>
+
+    <string name="workers">कर्मी</string>
+    <string name="profile">प्रोफ़ाइल</string>
+
+    <string name="skill">कौशल</string>
+    <string name="status">स्थिति</string>
+
+    <string name="changeLanguage">भाषा चुने</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="marathi">मराठी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="kannada">कन्नडा</string>
+</resources>
